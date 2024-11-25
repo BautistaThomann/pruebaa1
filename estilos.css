@@ -1,8 +1,12 @@
 h1 {
     color: red;
+<<<<<<< HEAD
 }
 
 p {
     color: red;
     margin: 10px;
+=======
+    color: blue;
+>>>>>>> aa9ab6589b567d8a17617c802242004b7948eb5f
 }
